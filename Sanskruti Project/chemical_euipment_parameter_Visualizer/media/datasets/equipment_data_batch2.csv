@@ -1,0 +1,11 @@
+Equipment Name,Type,Flowrate,Pressure,Temperature
+Vacuum Pump V-3,Pump,45.0,0.5,28.0
+Evaporator E-8,Heat Exchanger,165.0,12.0,88.0
+Centrifuge CentA-1,Separator,72.5,8.0,35.0
+Fractionation Tower F-5,Column,125.0,22.0,72.5
+Rotary Compressor R-8,Compressor,180.0,28.5,52.0
+Horizontal Tank HT-4,Tank,55.0,2.5,32.0
+Bag Filter BF-3,Filter,95.0,9.5,36.0
+Air Cooler AC-6,Cooler,145.0,6.0,22.0
+Industrial Furnace IF-7,Furnace,190.0,19.5,115.0
+Surge Drum SD-2,Tank,35.0,1.5,31.0

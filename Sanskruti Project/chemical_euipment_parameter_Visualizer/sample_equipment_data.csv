@@ -1,0 +1,11 @@
+Equipment Name,Type,Flowrate,Pressure,Temperature
+Feed Pump A,Pump,120.5,15.2,38.5
+Reactor R-101,Reactor,85.0,12.5,95.0
+Heat Exchanger E-12,Heat Exchanger,150.0,10.0,75.0
+Separator S-7,Separator,98.4,9.8,42.0
+Distillation Column C-3,Column,110.2,20.5,68.0
+Compressor K-5,Compressor,200.0,30.0,55.0
+Storage Tank T-9,Tank,40.0,1.2,30.0
+Filter F-2,Filter,60.0,8.5,33.5
+Cooler C-15,Cooler,130.0,7.5,25.0
+Furnace H-22,Furnace,175.0,18.0,120.0

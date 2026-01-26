@@ -1,0 +1,11 @@
+Equipment Name,Type,Flowrate,Pressure,Temperature
+Peristaltic Pump PP-2,Pump,35.5,5.0,31.0
+Tubular Reactor TR-3,Reactor,155.0,14.0,92.0
+Immersion Cooler IC-6,Heat Exchanger,175.0,9.0,76.0
+Decanter Centrifuge DC-4,Separator,95.0,9.5,46.0
+Random Packing Column RPC-7,Column,145.0,19.0,65.0
+Rotary Screw Compressor RSC-5,Compressor,260.0,36.0,58.0
+Vertical Tank VT-8,Tank,65.0,2.2,32.5
+Sand Filter SF-2,Filter,85.0,8.2,35.5
+Dry Cooler DC-10,Cooler,200.0,6.5,20.0
+Gas Heater GH-12,Furnace,215.0,20.0,125.0

@@ -1,0 +1,11 @@
+Equipment Name,Type,Flowrate,Pressure,Temperature
+Diaphragm Pump DP-4,Pump,88.0,25.0,42.0
+Stirred Tank Reactor STR-5,Reactor,110.0,16.0,98.0
+Brazed Plate Cooler BPC-7,Heat Exchanger,195.0,11.5,80.0
+Cyclone Sep C-11,Separator,120.0,10.2,48.0
+Sieve Tray Column STC-8,Column,135.0,21.0,70.5
+Reciprocating Compressor RC-6,Compressor,220.0,32.0,56.5
+Bullet Tank BT-3,Tank,50.0,2.0,33.5
+Cartridge Filter CF-5,Filter,75.0,8.0,34.0
+Spray Cooler SC-9,Cooler,165.0,7.0,24.0
+Gas Furnace GF-11,Furnace,185.0,17.0,118.0

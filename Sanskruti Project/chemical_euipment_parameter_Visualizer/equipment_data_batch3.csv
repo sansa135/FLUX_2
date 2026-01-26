@@ -1,0 +1,11 @@
+Equipment Name,Type,Flowrate,Pressure,Temperature
+High Pressure Pump HP-10,Pump,250.0,40.0,45.0
+Fluidized Bed Reactor FBR-2,Reactor,320.0,35.0,105.0
+Plate Heat Exchanger PHE-5,Heat Exchanger,280.0,15.0,82.0
+Hydrocyclone HC-1,Separator,145.0,11.0,50.0
+Packed Column PC-9,Column,200.0,25.0,78.0
+Centrifugal Compressor CC-3,Compressor,380.0,42.0,60.0
+Cone Bottom Tank CBT-6,Tank,75.0,3.0,35.0
+Pressure Leaf Filter PLF-8,Filter,110.0,10.5,40.0
+Shell & Tube Cooler STC-2,Cooler,220.0,8.0,28.0
+Electric Furnace EF-4,Furnace,210.0,21.0,130.0
